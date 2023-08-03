@@ -1,0 +1,440 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Barn_swallow      -----------------------------------------AGCCAGT------------
+Hippopotamus      GACGTGCGAGGGGGTGCGGCGCGAGCGGGCGGCGGCAGCGGGGGCAGTGTCTCCGGGACG
+Homo_sapiens      ---------------------------------------------AGTGTCTCCCGGTCG
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      -------------------CTGCACTGCCAGTGCAAAGCTCAACCGGAACCCAACAGATT
+Hippopotamus      CGCGTGGAGGTCGGTCGCTCGGGACTGCTG-GGCAGAGTTTCGCCG----CCTGCGGCTT
+Homo_sapiens      CGCGTGGAGGTCGGTCGCTCAGAGCTGCTG-GGCGCAGTTTCTCCG----CCTGCTGCTT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      CTGTT-------CCCAGCGTGGCAGA----GA--GACTTTTTACCAAAGAACGCTGTCAT
+Hippopotamus      CGGCTCGGCTGTGCCAGCGAGCGAGCGAGCGAGCGAGTCCCCACGAA------------T
+Homo_sapiens      CGGCGCGGCTGTATCGGCGAGCGAGC--------GAGTTCCCGCGAG------------T
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ACTGAGAGCGATTCCTGATTTATTAATCTTTCTGGAAGGACTGGAGACTGGAGACATGCC
+Hippopotamus      CCCCGGTGCAG----------------------CCTCGGGCTGTGCGCTCGTCCCCCCGC
+Homo_sapiens      TCTCGGTGGCGCTCCCCCTTCCTT--TCAGTCTCCACGGACTGGCCCCTCGTCCTTCTAC
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      TAGTCATTTCAAACATGTCCTTAATCCATCTTCAGATAATTTT-----------------
+Hippopotamus      TCGATCGCTCC--C----CCTTCCGCGGCCTCGAGGCGCTTTCCGTTGGGCAGATTCCCG
+Homo_sapiens      TTGACCGCTCC--C---GTCTTCCGCCGCCTTCTGGCGCTTTCCGTTGGGCCGATTCCCG
+Minke_whale       ---------CC--A---G----CCGGAAGCGTCGGG-----------GAGGCG-TTGGCG
+                           *                   *    *                         
+
+Barn_swallow      -----------AGGCATTCGGTAGAAGAAGGCTATAAGTAGATG--------AGCAC-AA
+Hippopotamus      CCCGCTTCCTCCTGTTCCCCGTTGAAGC--TCCAGAGATGAGTGTTTCCATCTCCTCAGA
+Homo_sapiens      CCCGCTTCCTCCTGCTTCCCATCGAAGC--TCTAGAAATGAATGTTTCCATCTCTTCAGA
+Minke_whale       GCGGCTACG-GC--------AGCGGCGC--AC-----------GTG--------GTGAC-
+                                         *  *    *           *                
+
+Barn_swallow      GAAGAGCCAAAGGTTATGATGCATGATTATCACAGAAGAAATTCATGTCTATAGCTCATA
+Hippopotamus      GATGAAC--CAGATTATGATGCATGATTATCACAGAAGAAATTCGTGTCTATAGCTTTAA
+Homo_sapiens      GATGAAC--CAGATTATGATGCATCATTATCACAGAAGAAATTCGTGTCTATAGCTTTTA
+Minke_whale       GTGCGAA--GGGATTATGATGCATGATTATCACAGAAGAAGTTCGTGTCTATAGCTTTAA
+                  *          * *********** *************** *** ***********   *
+
+Barn_swallow      AGGACTATATTACATCATCTTCAAGCCTGATAGTT-TTGGAATCCATACTGCAGCTGCAA
+Hippopotamus      AGGACTTGATTACATCATTTTCAAGCCTGATAGTTTTTGGAATCACCATTAGAGCTTAAG
+Homo_sapiens      AGGACTTGATTACATCATTTTCAAGCCTGATAGTT-TTGGAATCACCATTAGAGCTTAAG
+Minke_whale       AGGACTTGATTACATCATTTTCAAGCCTGATAGTT-TTGGAATCACCATTAGAGCTTCAG
+                  ******  ********** **************** ********   * *  ****  * 
+
+Barn_swallow      ACGCACGTCTGCTTTTGCATTTCCACAAACATCTTCCCTGTCAGGAGATCGTGAAACTCA
+Hippopotamus      AC--ACCTCTGCCTT--CACTTCAACCAC--------CTGTCTTCATACCTCAA---CGA
+Homo_sapiens      AC--ACACCTGCCTT--CATTTCAACCAC--------CTGTCTTCATACCCTGA---CGA
+Minke_whale       AC--ACCTCTGCCTT--CACTTCAGCCAC--------CTGTCTTCATACCTCAA---CGA
+                  **  **  **** **  ** ***  * *         *****   * * *   *     *
+
+Barn_swallow      AGTGCACTGTTCTAACACAGTGATACCATTGGGCTATTTTAAATTTA-CAGTCATTTATT
+Hippopotamus      AGTGCTGA-------GTTTCCTTTGTCCTTGGATTATTTAAAACATCCCAGAAATACATT
+Homo_sapiens      AGTGCACC-TTTTAACACTCCTTTGTCCTTGGATTACTTAAGAGTTCCCAGAAATACATT
+Minke_whale       AGCGCTGA-------GTTTCCTTTGTCCTTGGATTATTTAAAACACCCCGGAAATACATT
+                  ** **                  *  * ****  ** ** * *     * *  **  ***
+
+Barn_swallow      TGCTT-----------GCCAGACCAA--CACCAAAATGATTCCCAACGGATATTTGATGT
+Hippopotamus      TCTCACCAGTATAGTAGCCAAATTTATAAGGAAAAATGATTCCCAATGGATATTTAATGT
+Homo_sapiens      TGCCACCAACAGAGTAGCCAAATTTATAAGGAAAAATGATTCCCAATGGATATTTGATGT
+Minke_whale       TCTCACCAGTATAGTAGCCAAAT-TATAAGGAAAAATGATTCCCAATGGATATTTAATGT
+                  *               **** *   *      ************** ******** ****
+
+Barn_swallow      TTGAGGATGAAAACTTCATCGAGTCATCTGTTGCCAAACTCAACGCCTTACGCAAGAGCG
+Hippopotamus      TTGAAGATGAAAATTTCATTGAGTCTTCTGTTGCCAAATTAAATGCCCTGAGGAAAAGTG
+Homo_sapiens      TTGAGGATGAAAATTTTATTGAGTCTTCTGTTGCCAAATTAAATGCCCTGAGGAAAAGTG
+Minke_whale       TTGAAGACGAAAATTTCATTGAGTCTTCTGTTGCCAAATTAAATGCCCTGAGGAAAAGTG
+                  **** ** ***** ** ** ***** ************ * ** *** *  * ** ** *
+
+Barn_swallow      GTCAGTTCTGCGACGTCCGCCTCCAGGTGTGTGGACACGAGATGCTGGCGCACCGAGCCG
+Hippopotamus      GCCAGTTCTGTGATGTTCGACTTCAGG---------------------------------
+Homo_sapiens      GCCAGTTCTGTGATGTTCGACTTCAGGTCTGTGGCCATGAAATGTTAGCACACAGAGCAG
+Minke_whale       GCCAGTTCTGTGATGTTCGACTTCAGGTCTGTGGCCATGAGATGTTAGCACACAGAGCAG
+                  * ******** ** ** ** ** ****                                 
+
+Barn_swallow      TGCTGGCATGCTGCAGTCCCTACCTGTTCGAAATCTTCAACACCGACAGTGACTGTCACG
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TGCTAGCTTGCTGCAGTCCCTATTTATTTGAAATCTTTAATAGTGATAGTGATCCTCATG
+Minke_whale       TCCTGGCTTGCTGCAGTCCCTATTTATTTGAAATCTTTAATAATGATAATGATCCTCACC
+                                                                              
+
+Barn_swallow      GGGTTTCCCATGTGAAATTCGATGATCTCAACCCAGAAGCTGTTGAAGTTCTGTTGAATT
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      GAATTTCTCACGTTAAATTTGATGATCTCAATCCAGAAGCTGTTGAAGTCTTGTTGAATT
+Minke_whale       GAGTTTCTCATGTTAAGTTTGATGATCTCAATCCGGAAGCTGTGGAAGTCTTGTTGAATT
+                                                                              
+
+Barn_swallow      ATGCCTATACTGCTCAGTTAAAAGCTGATAAAGAGCTGGTGAAAGATGTATACTCTGCAG
+Hippopotamus      -----------------TTGAAAGCCGATAAGGAATTAGTCAAAGATGTTTATTCTGCAG
+Homo_sapiens      ATGCCTACACTGCTCAGTTGAAAGCAGATAAGGAATTGGTAAAAGATGTTTATTCTGCAG
+Minke_whale       ATGCCTACACTGCTCAGTTGAAAGCCGATAAGGAATTAGTCAAAGACGTTTATTCTGCAG
+                                   ** ***** ***** **  * ** ***** ** ** *******
+
+Barn_swallow      CAAAGAAGTTGAAGATGGAGAGGGTTAAGCAGGTTTGTGGTGACTATTTGCTCTCCAAGA
+Hippopotamus      CAAAAAAACTGAAGATGGACCGAGTAAAGCAGGTTTGTGGTGATTATTTACTGTCTAGAA
+Homo_sapiens      CAAAAAAGCTGAAGATGGATCGAGTAAAGCAGGTTTGTGGTGATTATTTACTGTCTAGAA
+Minke_whale       CAAAAAAGCTGAAGATGGACCGAGTAAAGCAGGTTTGTGGTGATTATTTACTATCTAGAA
+                  **** **  **********  * ** ***************** ***** ** ** *  *
+
+Barn_swallow      TGGACGTGCAGAGCTGCATCTCCTACCGGAACTTCGCCAGCTGCATGGGAGACTCTCGGT
+Hippopotamus      TGGATGTTACCAGCTGCATCTCTTACCGAAATTTTGCAAGTTGTATGGGAGACTCTCGTT
+Homo_sapiens      TGGATGTTACCAGCTGCATCTCTTACCGAAATTTTGCAAGTTGTATGGGAGACTCCCGTT
+Minke_whale       TGGATGTTACCAGCTGCATCTCTTACCGAAATTTTGCAAGTTGTATGGGAGACTCCCGTT
+                  **** **    *********** ***** ** ** ** ** ** *********** ** *
+
+Barn_swallow      TGTTGAACAAGATCGATGGCTACATTCAGGAACACCTTGTAGAGATTTCAGAACAGGAGG
+Hippopotamus      TGTTGAATAAGGTTGATGCTTATATTCAGGAGCATTTGTTACAAATTTCAGAAGAGGAAG
+Homo_sapiens      TGTTGAATAAGGTTGATGCTTATATTCAGGAGCATTTGTTACAAATTTCTGAAGAGGAGG
+Minke_whale       TGTTGAATAAGGTTGATGCTTATATTCAGGAGCATTTGTTACAAATTTCAGAAGAGGAAG
+                  ******* *** * ****  ** ******** **  *  ** * ***** *** **** *
+
+Barn_swallow      AATTTCTCAAACTCCCACGGTTAAAGCTTGAAATAATGCTGGAAGACAATGTTGGCCTAC
+Hippopotamus      AGTTTCTTAAACTTCCACGGCTAAAGTTGGAGGTAATGCTTGAAGATAATGTTTGCTTGC
+Homo_sapiens      AGTTTCTTAAGCTTCCAAGGCTAAAGTTGGAGGTAATGCTTGAAGATAATGTTTGCTTGC
+Minke_whale       AGTTTCTTAAACTTCCACGGCTAAAGTTGGAGGTAATGCTTGAAGATAATGTTTGCTTGC
+                  * ***** ** ** *** ** ***** * **  ******* ***** ****** ** * *
+
+Barn_swallow      CCAGCAATGGCAAATTGTACACAAAGGTAATCAACTGGGTACAGCGCAGCATCTGGGAGA
+Hippopotamus      CCAGCAATGGCAAATTGTACACAAAGGTAATCAACTGGGTGCAGCGTAGCATCTGGGAGA
+Homo_sapiens      CCAGCAATGGCAAATTATATACAAAGGTAATCAACTGGGTGCAGCGTAGCATCTGGGAGA
+Minke_whale       CCAGCAATGGCAAATTGTACACAAAGGTAATCAACTGGGTGCAGCGTAGCATCTGGGAGA
+                  **************** ** ******************** ***** *************
+
+Barn_swallow      ACGGAGGCAGCCTGGAAGATCTAATGGAAGAGGTGCAAACGCTGTACTACTCAGCTGATC
+Hippopotamus      ATGGAGACAGTCTGGAAGAGCTGATGGAAGAGGTTCAAACCTTGTACTACTCAGCTGATC
+Homo_sapiens      ATGGAGACAGTCTGGAAGAGCTGATGGAAGAGGTTCAAACCTTGTACTACTCAGCTGATC
+Minke_whale       ATGGAGACAGTCTGGAAGAGCTGATGGAAGAGGTTCAAACCTTGTACTACTCAGCTGATC
+                  * **** *** ******** ** *********** *****  ******************
+
+Barn_swallow      ACAAGCTGCTTGATGGAAATCTGCTAGATGGACAGGCTGAGGTGTATGGCAGTGA---TG
+Hippopotamus      ACAAGCTGCTTGATGGGAACCTGCTAGATGGACAGGCTGAGGTGTGTGGCAGTGATGGTG
+Homo_sapiens      ACAAGCTGCTTGATGGGAACCTACTAGATGGACAGGCTGAGGTGTTTGGCAGTGATGATG
+Minke_whale       ACAAGCTGCTTGATGGGAACCTACTAGATGGACAGGCTGAGGTGTTTGGCAGTGATGATG
+                  **************** ** ** ********************** *********   **
+
+Barn_swallow      ACCACATTCAGTTTGTGCAGAAGAGGCCACCACGTGAGAATGATCACAAGCAGATCAGTA
+Hippopotamus      ACCACATTCAGTTTGTGCAGAAAAAGCCACCCCGTGAGAATGGCCATAAGCAGATAAGTA
+Homo_sapiens      ACCACATTCAGTTTGTGCAGAAAAAGCCACCACGTGAGAATGGCCATAAGCAGATAAGTA
+Minke_whale       ACCACATTCAGTTTGTGCAGAAAAAGCCACCACGTGAGAATGGCCATAAGCAGATAAGTA
+                  ********************** * ****** **********  ** ******** ****
+
+Barn_swallow      GCAGCTCCTCTGGAAGTCTT---TCTCCAAATGCTACTGTTCAGAGTCCTAAACACGAGT
+Hippopotamus      GCAGTTCCATTGGATGTCTCTCTTCTCCAAATGCTACAATACAAAGCCCTAAGCATGAGT
+Homo_sapiens      GCAGTTCAACTGGATGTCTCTCTTCTCCAAATGCTACAGTACAAAGCCCTAAGCATGAGT
+Minke_whale       GCAGTTCCATTGGATGTCTCTCTTCTCCAAATGCTACAATACAAAGCCCTAAGCACGAGT
+                  **** **   **** ****    **************  * ** ** ***** ** ****
+
+Barn_swallow      GGAAAATCATTGCTTCAGAGAAGACTTCGAGTAACACGTACCTGTGCCTGGCCGTGCTGG
+Hippopotamus      GGAAAATCGTTGCTTCGGAAAAGACTTCAAATAACACTTACTTGTGCCTGGCTGTGCTGG
+Homo_sapiens      GGAAAATCGTTGCTTCAGAAAAGACTTCAAATAACACTTACTTGTGCCTGGCTGTGCTGG
+Minke_whale       GGAAAATCGTTGCTTCGGAAAAGACTTCAAATAACACTTACTTGTGCCTGGCTGTGCTGG
+                  ******** ******* ** ******** * ****** *** ********** *******
+
+Barn_swallow      ACGGGGTGCTGTGCGTGATCTTCCTGCACGGCCGCAACAGCCCGCAGAGCTCCCCCTCGA
+Hippopotamus      ATGGTATTTTCTGTGTCATTTTCCTTCATGGGCGAAACAGCCCACAGAGCTCACCAACAA
+Homo_sapiens      ATGGTATATTCTGTGTCATTTTTCTTCATGGGAGAAACAGCCCACAGAGCTCACCAACAA
+Minke_whale       ATGGTATTTTCTGTGTCATTTTCCTTCATGGGCGAAACAGCCCACAGAGCTCACCAACAA
+                  * **  *  * ** ** ** ** ** ** **  * ******** ******** **  * *
+
+Barn_swallow      GCACCCCGCGGCTGCTGAAGAGCCTGAGCTTCGAGCTGCAGCCCAGCGACCTCATCGAGA
+Hippopotamus      GTACTCCAAAACTCATTAAAAGTTTAAGTTTTGAGATGCAACCAGATGAGCTAATAGAAA
+Homo_sapiens      GTACTCCAAAACTAAGTAAGAGTTTAAGCTTTGAGATGCAACAAGATGAGCTAATCGAAA
+Minke_whale       GTACTCCAAAACTCATTAAAAGTTTAAGCTTTGAGATGCAACCAGATGAGTTAATAGAAA
+                  * ** **    **    ** **  * ** ** *** **** *     **  * ** ** *
+
+Barn_swallow      AGCCCATGTCCCCCATGCAGTACGCGCGCTCGGGGCTGGGCACGGCCGAGCTGCACGGCA
+Hippopotamus      AGCCCATGTCTCCTATGCAGTACGCACGATCTGGTCTGGGGACGGCAGAGATGAATGGCA
+Homo_sapiens      AGCCCATGTCTCCTATGCAGTACGCACGATCTGGTCTGGGAACAGCAGAGATGAATGGCA
+Minke_whale       AGCCCATGTCTCCTATGCAGTACGCACGATCTGGTCTGGGGACAGCAGAGATGAACGGCA
+                  ********** ** *********** ** ** ** ***** ** ** *** ** * ****
+
+Barn_swallow      GGCTCATCGCTGCGGGGGGCTACAACAGGGAGGAGTGCCTGCGCACCGTGGAGTGCTACG
+Hippopotamus      AACTCATAGCTGCAGGTGGCTATAACAGAGAGGAATGTCTGCGAACAGTTGAGTGCTATG
+Homo_sapiens      AACTCATAGCTGCAGGTGGCTATAACAGAGAGGAATGTCTTCGAACAGTCGAATGCTATA
+Minke_whale       AACTCATAGCTGCAGGTGGCTATAACAGAGAGGAGTGTCTTCGAACAGTTGAATGCTATG
+                    ***** ***** ** ***** ***** ***** ** ** ** ** ** ** *****  
+
+Barn_swallow      ATCCCGAGAAGGACGCCTGGACGTTCATCGCGCCCATGAGGACGCCGAGGGCCCGGTTCC
+Hippopotamus      ATCCACATACAGATCATTGGTCCTTTCTTGCTCCCATGAGGACACCAAGAGCCCGATTTC
+Homo_sapiens      ATCCACATACAGATCACTGGTCCTTTCTTGCTCCCATGAGAACACCAAGAGCCCGATTTC
+Minke_whale       ATCCACATACAGATCATTGGTCCTTTCTTGCTCCCATGAGGACACCAAGAGCCCGATTTC
+                  ****  * *  **    *** * **  * ** ******** ** ** ** ***** ** *
+
+Barn_swallow      AGATGGCGGTGCTGATGGGGCAGCTGTACGTCGTGGGCGGGTCAAATGGCCACTCGGACG
+Hippopotamus      AAATGGCTGTACTCATGGGCCAGCTGTATGTGGTAGGTGGATCGAATGGCCACTCAGATG
+Homo_sapiens      AAATGGCTGTACTCATGGGCCAGCTCTATGTGGTAGGTGGATCAAATGGCCACTCAGATG
+Minke_whale       AAATGGCCGTACTCATGGGCCAGCTCTATGTGGTCGGTGGATCAAATGGCCACTCAGATG
+                  * ***** ** ** ***** ***** ** ** ** ** ** ** *********** ** *
+
+Barn_swallow      ACTTGAGCTGTGGAGAGATGTACGAGCCCGAGATCGATGACTGGACCCCTGTTCCGGAGC
+Hippopotamus      ACCTGAGTTGTGGAGAGATGTATGATCCAAACATAGATGACTGGACTCCTGTTCCAGAAT
+Homo_sapiens      ACCTGAGTTGTGGAGAGATGTATGATTCAAACATAGATGACTGGATTCCTGTTCCAGAAT
+Minke_whale       ACCTGAGATGTGGAGAGGTGTATGATCCAAACATAGATGACTGGACTCCTATTCCAGAAT
+                  ** **** ********* **** **  *  * ** **********  *** **** **  
+
+Barn_swallow      TGCGGACCAACCGCTGCAACGCAGGAGTGTGTGCCCTGAACGGAAAGCTCTACATTGTGG
+Hippopotamus      TGAGAACTAACCGTTGTAATGCAGGAGTGTGTGCTCTGAACGGGAAATTATACATTGTCG
+Homo_sapiens      TGAGAACTAACCGTTGTAATGCAGGAGTGTGTGCTCTGAATGGAAAGTTATACATCGTTG
+Minke_whale       TGAGAACTAACCGTTGTAATGCAGGAGTGTGTGCTCTGAACGGGAAATTATACATCGTTG
+                  ** * ** ***** ** ** ************** ***** ** **  * ***** ** *
+
+Barn_swallow      GTGGTTCTGACCCCTATGGCCAGAAAGGACTGAAGAACTGTGATGTGTTTGATCCTGTAA
+Hippopotamus      GTGGCTCAGATCCATACGGTCAAAAAGGACTGAAAAATTGTGATGTATTTGATCCTATAA
+Homo_sapiens      GTGGCTCTGATCCATATGGTCAAAAAGGACTGAAAAATTGTGATGTATTTGATCCTGTAA
+Minke_whale       GTGGCTCAGATCCATATGGTCAAAAAGGACTGAAAAATTGTGATGTATTTGATCCTATAA
+                  **** ** ** ** ** ** ** *********** ** ******** ********* ***
+
+Barn_swallow      CAAAGGCTTGGACAAGTTGTGCTCCCCTTAACATCCGGAGGCACCAGTCTGCCGTGTGTG
+Hippopotamus      CGAAGTCGTGGACAAGCTGTGCTCCTCTTAACATTCGTAGACACCAGTCTGCAGTGTGTG
+Homo_sapiens      CAAAGTTGTGGACAAGCTGTGCCCCTCTTAACATTCGGAGACACCAGTCTGCAGTCTGTG
+Minke_whale       CAAAGTCATGGACAAGCTGTGCTCCTCTTAACATTCGTAGACACCAGTCTGCAGTCTGTG
+                  * ***   ******** ***** ** ******** ** ** *********** ** ****
+
+Barn_swallow      AGCTGGGGGGGTACCTGTACATCATCGGTGGGGCCGAGTCGTGGAACTGCCTCAACAGCG
+Hippopotamus      AGCTTGGTGGTTACTTGTACATAATCGGAGGCGCAGAGTCCTGGAATTGTCTGAACACAG
+Homo_sapiens      AGCTTGGTGGTTATTTGTACATAATCGGAGGTGCAGAATCTTGGAATTGTCTGAACACAG
+Minke_whale       AGCTTGGTGGTTATTTGTACATAATTGGAGGCGCAGAGTCTTGGAATTGTCTGAACACAG
+                  **** ** ** **  ******* ** ** ** ** ** ** ***** ** ** ****  *
+
+Barn_swallow      TGGAGCGCTACAACCCCGAGAACAACACCTGGACCCTGATGGCACCCATGAACGTGGCAC
+Hippopotamus      TAGAACGTTACAATCCTGAAAATAACACCTGGACTTTAATTGCATCCATGAATGTGGCTA
+Homo_sapiens      TAGAACGATACAATCCTGAAAATAATACCTGGACTTTAATTGCACCCATGAATGTGGCTA
+Minke_whale       TAGAACGTTATAATCCTGAAAATAACACCTGGACTTTAATTGCATCCATGAATGTGGCTA
+                  * ** ** ** ** ** ** ** ** ********  * ** *** ******* *****  
+
+Barn_swallow      GGCGCGGTGCCGGCGTGGCTGTCCGTGATGGAAAGCTCTTTGTGGCCGGAGGATTTGACG
+Hippopotamus      GGCGAGGAGCTGGGGTGGCTGTTCTTGGCGGAAAACTGTTTGTAGGTGGTGGCTTTGATG
+Homo_sapiens      GGCGAGGAGCTGGAGTGGCTGTTCTTAATGGAAAACTGTTTGTATGTGGTGGCTTTGATG
+Minke_whale       GGCGAGGAGCTGGAGTGGCTGTTCTCGGCGGAAAACTGTTTGTAGGTGGTGGCTTTGATG
+                  **** ** ** ** ******** *     ***** ** *****    ** ** ***** *
+
+Barn_swallow      GCACGCACGCGGTGAACTGCGTGGAGATGTACGACCCTGCCAGGAACGAGTGGAAGATGA
+Hippopotamus      GTTCTCATGCCATCAGTTGTGTGGAGATGTATGATCCAACTAGAAATGAATGGAAGATGA
+Homo_sapiens      GTTCTCATGCCATCAGTTGTGTGGAAATGTATGATCCAACTAGAAATGAATGGAAGATGA
+Minke_whale       GTTCTCATGCCATCAGTTGTGTGGAGATGTATGATCCAACTAGAAATGAATGGAAGATGA
+                  *  * ** **  * *  ** ***** ***** ** **  * ** ** ** **********
+
+Barn_swallow      TGGGCAGCATGACCACGCCCAGGAGCAACGCCGGCATCACCACCGTGGCTAACACCATTT
+Hippopotamus      TGGGAAACATGACTTCACCAAGGAGCAATGCTGGGATTACAACTGTAGGGAACACCATTT
+Homo_sapiens      TGGGAAATATGACTTCACCAAGGAGCAATGCTGGGATTGCAACTGTAGGGAACACCATTT
+Minke_whale       TGGGAAACATGACTTCACCAAGGAGCAATGCTGGGATTACAACTGTAGGGAACACCATTT
+                  **** *  *****  * ** ******** ** ** **  * ** ** *  **********
+
+Barn_swallow      ATGCAGTGGGGGGCTTTGATGGCAATGAGTTCCTGAACACACTTGAGGTCTACAATCCAG
+Hippopotamus      ATGCAGTGGGAGGATTTGACGGCAATGAATTTCTGAATACGGTGGAAGTCTATAACCTTG
+Homo_sapiens      ATGCAGTGGGAGGATTCGATGGCAATGAATTTCTGAATACGGTGGAAGTCTATAACCTTG
+Minke_whale       ATGCAGTGGGAGGATTTGATGGCAATGAATTTCTGAATACGGTGGAAGTCTATAACCTTG
+                  ********** ** ** ** ******** ** ***** **  * ** ***** ** *  *
+
+Barn_swallow      AGTCAAATGAGTGGAGCCCCTACACCAAAATTTACAAGTTTTAAGTGAATTAAATTCCCT
+Hippopotamus      AGTCAAATGAGTGGAGCCCCTATACCAAGATTTTCCAGTTTTAACAAATTGAA-GA-CCC
+Homo_sapiens      AGTCAAATGAATGGAGCCCCTATACAAAGATTTTCCAGTTTTAACAAATTTAA-GA-CCC
+Minke_whale       AGTCAAATGAGTGGAGCCCCTATACCAAGATTTTCCAGTTTTAACAAATTGAA-GA-CCC
+                  ********** *********** ** ** **** * ********   * * **    ** 
+
+Barn_swallow      TTTCAAACTAACAGGCTTAGTGATGTAATTGTGTTTCAGTAGAGGTACACCTGTGAATAG
+Hippopotamus      TTTCAAACTAACAGGCTTAGTGATGTAATTGTGTCT-AGTATAGGTACACTTGTGAATAA
+Homo_sapiens      TCTCAAACTAACAGGCTTAGTGATGTAATTATGGTT-AGTAGAGGTACACTTGTGAATAA
+Minke_whale       TTTCAAACTAACAGGCTTAGTGATGTAATTGTGTTA-GGTAGAGGTACACTTGTGAATAA
+                  * **************************** **     *** ******** ******** 
+
+Barn_swallow      GGG--TGGGGAGGGCATGGATGTTGCCAACAGCAACACAGAGCTTTTGCATATTGCATAT
+Hippopotamus      GGAGGGTGGGTGGGTATAGATGTTGCTAACAGCAACACAGAGCTTTTGCATATTGCATAT
+Homo_sapiens      AGAGGGTGGGTGGGTATAGATGTTGCTAACAGCAACACAAAGCTTTTGCATATTGCATAC
+Minke_whale       GGAGGGTGGGTGGGTATAGATGTTGCTAACAGCAACACAAAGCTTTTGCATATTGCATAT
+                   *     *** *** ** ******** ************ ******************* 
+
+Barn_swallow      TA----ATGTGCTGTATATATTT---------GTTTTGGAAAGAATATTGAGATGAAGGG
+Hippopotamus      TATTAAACATGCTGTACATACTTTTTGTG-TTATTGGGAAAGGAATGCAAAGATGAAGGT
+Homo_sapiens      TATTAAACATGCTGTACATACTTTTTGGGTTTATTTGGAAAGGAATGCAAAGATGAAGGT
+Minke_whale       TATTAAACATGCTGTACATACTTCTTGTGTTTATTGGGAAAGGAATGCAAAGATGAAGGT
+                  **    *  ******* *** **          **  * ** ****    ********* 
+
+Barn_swallow      GT-TTTTGTGTATTTT-AGA---ACTTTAAAGGTTTTGGTTT-TAAGATTTTGAC---GA
+Hippopotamus      CTGTTTTGTGTATTTTTAGGACTACTTTGGTTATTTTACTTTTTTGGAAGTTGATATTGT
+Homo_sapiens      CTGTTTTGTGTACTTTTAAG---ACTTTGGTTATTTTACTTTTT--------------GG
+Minke_whale       CTGTTTTGTGTATTTTTAGGGCTACTTTGGTTATTTTACTTTTTTGGAAGTTGATATTGT
+                   * ********* *** *     *****     ****  *** *              * 
+
+Barn_swallow      TAACGCATG---AGAAACTAGACCGGGCATATCATTTCAGGAGCTTCCCC----------
+Hippopotamus      AAAAGAATAAACCAAGAATTGATTGGGCACATCA--------------------------
+Homo_sapiens      AAAAGAATAAACCAAGAATTGATTGGGCACATCATTTCAAGAAGTCCCCTCTCCTCCACA
+Minke_whale       AAAAGAATAAACCAAGGATTGATTGGGCACATCA--------------------------
+                   ** * **      *   * **  ***** ****                          
+
+Barn_swallow      TAGTGTTTGTCACTTTGCACATTGGATGACT--TCCTGGAGGTGTGTTCTTG-AGGCAGG
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TTTGTTTTGCCAATTTGCACATTAAATGACTCTTCCCTCAAATGTGTACTATGGGGTAAA
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      AAGGGTAACGTTTGTGGGGG-ATAATGTTTTTTTTCTTTCATCAGGCCTTGGTTTCCTTC
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      AGGGGTAGGGTTTAAAGATGTAGACAGTTGG-GTTT-TT--TAAGGGC----CCTTTTTC
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      AGTAACTGGAACAATCTGTAACAA-GAAGCCTTATTTAAATAGATATAAT-GGTTATTTT
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      AATAACTGGAACACTCTATAACAAAGGATACTTATTTAAATAGATGACATTGACTATTTT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ---TTTTATTAAAAAAAAAGCTGACATGCCTCTGCTAATACCTTATCTTTTACAATTGCC
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TGTTTTTATTA-AAAGGAAGCTTACATGCCT--ACCAATATTTAATCTTTTATGATTGCC
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      TTTTTATAACCATTTTTATATACTCAGCAGAGTATTTTGTCTGTTGAAATGCAAA-TGGC
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TTTTTATAAC--TTTTTATATTCTCAGCAGAGTGCTTTACCAATTGAAGTAAAATGTGGC
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      AGATAAGTGATTATTGAAACAAAGAGATGGCCTTGGAGTTTCTAGAGCCCGAGTGGGACA
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      AGGC-TGGAGTTATTGAAGCAGAGTGGCAGTCTT-CAGTTTGCAGAGTAGGGGTCTGTCT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      GTGG-------ATTGCCCCCGCAGGTGAGCTGCTGCCTCTGCTGCAATCATGTGAGTT--
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TTTAAACTCTGAGTGCA--AACTTCAGAGTTCTTGCCTTGGCTGCAGTTTTTTTCCTTCA
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      AGTCTGCACCACCTTCCTTAGAGCTGCACAGGGTTTCTGGACATG-ACACACCCAGACTT
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      AGAATGCAGTACTAACA-TTTATTTGAGTGGAGTTACTGAACAGTAACATAGCTGTGATT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      TCTAGGGTGGGAAAAGGATTCTGGCTCCAAGTACTTTGAGGAGAATGCAGAGTGCGTTTT
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TTTGGTATTTGAAA----CACTGGTTTTAAATATTTTGACTTG--TTGAGGGTATGTTT-
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      CTGTACAGCAGTTTTGTTACTCTGGGTGAGCTGATATTTGTACAACAACAAGAGGGTGGG
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      -TATATAGCA----------------------------------------AGACAT----
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      GAGGGGGGGTTCTCATGGGTTTTAAACTCTTGCCAGCTGGCAAAGAAAATGTGTTGTAGT
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      -----------------------------TATATAGCAGTA--AAAAATGGTGTTTTATC
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ACCTGTCTTAAGTTTATTTTTCTAATATTACC------------------AGCT-GGGAG
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TTCTATA--TAATTCCTGTTTTTATTATTAACAAAACAGTCCTAAATAGCAGCCCTCAAT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      TGTGATAGAACAC-----AAATAACTTGA--TTTTGTA------TGTGCTCATAGTCCTG
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TGTGAAAAAATTTACTTTAAACTACATTAGGTTGTGAATGCAGGTTTTATCAGAACTATG
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      TTTTAGTTCACTTTCTCTATTCCTATGGATCAAACATTGGGGTGGGATGACTTGGTGTCT
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TTTTTGTTCAGTTTATCTGTTCATATGGATAAA-TAT-TGGTTGGGATGACTTGGTGTCT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      AATGTGTAGTGCTGCACATCTAACTCTGGGTGCCAAAACTAGCA---CTGACTGCTTGCT
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      AATGTGTAGTGCTACACACCTAACTTATGGGGCCAAAA-TAGCATGTCCTAATGCTTGCT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      GCTGCTGCAAACACATTAAAGGTACCTTTTGGGAAACCCTTGCACCA-------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      GCTGATTTAAACACATTAAAGGTACTTTGCAGGAAATCCTTGCACCATGGGATTAATATC
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ------------------------------------------------------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      CAATTGCTGCTTGTACACTCATTCATTACTAAAAGTTTTGAGAAATTTTTTTTTCCAGTA
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ------------------------------------------------------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      ATGAGCTTAAGAAATTTGTGGAAAATAACTCACCTGGCATCTTACATCTGAAATAAGGAA
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ------------------------------------------------------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TGATATAAGGTTTTTTTTTCTCACAGAAGATGAAGCACACAGGAACCTAATGGGCCAACT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ------------------------------------------------------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      GGGATGAGGTGACTATTCTGAGATGACTATTCAGTGGCTAACTTGGGTTAGGAAGAAAAT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ------------------------------------------------------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      AATTAGGTATTTTCTCCAAATGTTCACTGGTACTCTGCCACTTTATTTCTCTCATCTGTT
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ------------------------------------------------------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      ACACAAAGAACCACCAGGAAAGCAAATCAGTTTGGTTGGTAACTCTGTAATTCCTAACTA
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ------------------------------------------------------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      TCACTGGTTTGGTTCTGGACTAAAACTACATTGACAGATTGAATTTGCCTAATATGATGA
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      ------------------------------------------------------------
+Hippopotamus      ------------------------------------------------------------
+Homo_sapiens      CTGTTTTTAATATGGATCTGTATGTGTTCTATTCAGCACAAGGAAATAAAATTTTAGTTG
+Minke_whale       ------------------------------------------------------------
+                                                                              
+
+Barn_swallow      -----------------
+Hippopotamus      -----------------
+Homo_sapiens      AGGATTCAGCACTAAAA
+Minke_whale       -----------------
+                                   
